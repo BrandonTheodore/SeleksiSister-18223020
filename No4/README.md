@@ -35,7 +35,7 @@ Untuk melakukan compile dan run sudah disediakan script untuk melakukan hal ters
 Berikut merupakan tabel yang dibuat berdasarkan hasil yang dilakukan ketika kode terakhir kali dijalankan. Image dibuat dengan resolusi 1920 x 1080
 
 |              | Serial              | Paralel      |
-| ---          | ---                 |              |
+| ---          | ---                 | ---          |
 | Waktu        | 7.31479             | 1.26029      |
 | Percepatan   | 5.80408x            |              |
 
