@@ -1,0 +1,20 @@
+;
+; BIND data file for jarkom.local
+;
+$TTL    604800
+@       IN      SOA     ns1.jarkom.local. root.jarkom.local. (
+                      2         ; Serial
+                 604800         ; Refresh
+                  86400         ; Retry
+                2419200         ; Expire
+                 604800 )       ; Negative Cache TTL
+;
+; Name Servers
+@       IN      NS      ns1.jarkom.local.
+
+; Name Server A Record
+ns1     IN      A       192.168.100.10     ; IP Address dari DNS Server Anda (VM 1)
+
+; A Records untuk domain utama
+@       IN      A       192.168.100.40     ; IP Address dari Reverse Proxy (VM 4)
+www     IN      A       192.168.100.40     
