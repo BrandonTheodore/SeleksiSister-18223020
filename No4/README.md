@@ -37,7 +37,7 @@ Berikut merupakan tabel yang dibuat berdasarkan hasil yang dilakukan ketika kode
 |              | Serial              | Paralel      |
 | ---          | ---                 |              |
 | Waktu        | 7.31479             | 1.26029      |
-| Percepatan   | 5.80408x                           |
+| Percepatan   | 5.80408x            |              |
 
 Hasil dapat sedikit bervariasi, untuk mencobanya secara langsung silakan jalankan script yang sudah ada.
 
